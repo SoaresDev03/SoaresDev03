@@ -10,11 +10,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandresoaresoliveira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoaresDev03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.doliveira26@gmail.com)
 
 </div>
-
----
 
 ## 👋 Sobre mim
 
@@ -135,7 +133,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) • 🐙 [GitHub](https://github.com/SoaresDev03) • 📧 [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+💼 [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) • 🐙 [GitHub](https://github.com/SoaresDev03) • 📧 [alexandre.doliveira26@gmail.com](mailto:alexandre.doliveira26@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%" alt="Footer"/>
 
