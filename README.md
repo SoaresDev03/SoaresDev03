@@ -14,6 +14,8 @@
 
 </div>
 
+---
+
 ## 👋 Sobre mim
 
 Olá! Eu sou o **Alexandre** 👨‍💻
@@ -116,7 +118,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoaresDev03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoaresDev03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresDev03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
@@ -133,7 +135,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) • 🐙 [GitHub](https://github.com/SoaresDev03) • 📧 [alexandre.doliveira26@gmail.com](mailto:alexandre.doliveira26@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) •🐙 [GitHub](https://github.com/SoaresDev03) • 📧 [alexandre.doliveira26@gmail.com](mailto:alexandre.doliveira26@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%" alt="Footer"/>
 
