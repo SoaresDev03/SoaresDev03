@@ -67,7 +67,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Smart Investment</h3>
+      <h3> Smart Investment</h3>
       <p>Plataforma de análise de perfil de investidor e recomendação de ativos, com visualização de dados financeiros.</p>
       <p><b>Tecnologias:</b><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -79,7 +79,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
       <a href="https://github.com/AnaMioki/smart-investment">🔗 Ver projeto</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 GPM Esquadrias</h3>
+      <h3> GPM Esquadrias</h3>
       <p>Sistema de gerenciamento de pedidos, portfólio de produtos e solicitação de orçamentos.</p>
       <p><b>Tecnologias:</b><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -135,7 +135,7 @@ Olá! Eu sou o **Alexandre** 👨‍💻
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) •🐙 [GitHub](https://github.com/SoaresDev03) • 📧 [alexandre.doliveira26@gmail.com](mailto:alexandre.doliveira26@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/alexandresoaresoliveira) • [GitHub](https://github.com/SoaresDev03) • [alexandre.doliveira26@gmail.com](mailto:alexandre.doliveira26@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%" alt="Footer"/>
 
